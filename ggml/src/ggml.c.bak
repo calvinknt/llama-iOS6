@@ -1,3 +1,4 @@
+void ggml_abort(const char *file, int line, const char *fmt, ...);#define _USE_MATH_DEFINES // For M_PI on MSVC
 
 #include "ggml-backend.h"
 #include "ggml-impl.h"
