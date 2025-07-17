@@ -3,7 +3,7 @@
 #include "ggml-impl.h"
 #include "gguf.h"
 
-#include <cinttypes>
+#include <inttypes.h>
 #include <cstddef>
 #include <cstdint>
 #include <cstdio>

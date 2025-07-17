@@ -218,8 +218,8 @@ add_library(ggml-base
             ggml.c
             ggml-alloc.c
             ggml-backend.cpp
-            ggml-opt.cpp
-            ggml-threading.cpp
+            #ggml-opt.cpp
+            #ggml-threading.cpp
             ggml-threading.h
             ggml-quants.c
             ggml-quants.h
